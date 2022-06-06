@@ -19,4 +19,4 @@
 <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white" alt="vue">
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white" alt="sass">
 <img src="https://img.shields.io/badge/-StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white" alt="StyledComponents">
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" alt="git">
+<img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white" alt="git">
