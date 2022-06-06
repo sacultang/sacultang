@@ -9,6 +9,7 @@
 
 ## 🔨Tech Stack
 
+<div style="display:flex">
 <img src="https://img.shields.io/badge/HTML5-F05032?style=flat&logo=html5&logoColor=white" alt="html5">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="css3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="javascript">
@@ -20,3 +21,4 @@
 <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white" alt="sass">
 <img src="https://img.shields.io/badge/-StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white" alt="StyledComponents">
 <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white" alt="git">
+</div>
