@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="react">
 <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux&logoColor=white" alt="redux">
-<img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white" alt="sass">
 <img src="https://img.shields.io/badge/-StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white" alt="StyledComponents">
 <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white" alt="git">
 </div>
