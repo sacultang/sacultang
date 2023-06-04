@@ -6,7 +6,7 @@
 
 <a href="https://sacultang.github.io/" target="_blank"><img src="https://img.shields.io/badge/HEXO-0E83CD?style=flat&logo=hexo&logoColor=white"/></a>
 
-## 🔨Tech Stack
+## 🔨 Stack
 
 <div style="display:flex">
 <img src="https://img.shields.io/badge/HTML5-F05032?style=flat&logo=html5&logoColor=white" alt="html5">
